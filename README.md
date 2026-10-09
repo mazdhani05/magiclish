@@ -1,5 +1,5 @@
 <h1 align="center">
-  Magish Studio | Content Localization - Portofolio Praktikum
+  Magish Studio | Content Localization
 </h1>
 <p align="center">
   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/c004677a-f2e5-4acf-a77d-cff33b3ff2c4" />
