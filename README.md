@@ -1,4 +1,9 @@
-# Magish Studio | Content Localization - Portofolio Praktikum
+<h1 align="center">
+  Magish Studio | Content Localization - Portofolio Praktikum
+</h1>
+<p align="center">
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/c004677a-f2e5-4acf-a77d-cff33b3ff2c4" />
+</p>
 
 Repositori ini dibuat untuk memenuhi tugas praktikum **Branding Personal & Lokalisasi Produk Digital**. Di sini saya mendemonstrasikan proses lokalisasi teks game dari Bahasa Inggris (EN) ke Bahasa Indonesia (ID) dengan fokus pada aspek kultural, imersi pemain, dan batasan teknis UI game.
 
@@ -6,7 +11,7 @@ Repositori ini dibuat untuk memenuhi tugas praktikum **Branding Personal & Lokal
 
 ## Profil & Positioning
 * **Nama:** Ramandhani
-* **Peran:** Game Localization
+* **Peran:** Digital Content Localization
 * **Fokus:** Mengadaptasi teks game (Dialog, UI, Item, & Skill) agar terasa natural bagi komunitas gamer di Indonesia tanpa menghilangkan esensi mekanik game aslinya.
 
 ---
